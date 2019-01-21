@@ -1,2 +1,6 @@
 # Detection of Abnormality in Video Sequence
-Final year project :- Detection of abnormality in video sequence
+Final year project by:
+  Swapnanil Gupta
+  Abritti Guha
+  Bishal Kabashi
+  Sayantani Sikdar
